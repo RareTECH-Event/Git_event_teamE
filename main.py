@@ -2,7 +2,7 @@ def main():
     while True:
         print("選択してください：")
         print("1: ゆきんこ@52期")
-        print("2: メンバー2の名前")
+        print("2: ライト@53期")
         print("3: メンバー3の名前")
         print("q: 終了")
 
@@ -11,7 +11,7 @@ def main():
         if choice == "1":
             print("頑張りましょう！！！")
         elif choice == "2":
-            print("メンバー2のコメント")
+            print("ちょっと感動！")
         elif choice == "3":
             print("メンバー3のコメント")
         elif choice == "q":
